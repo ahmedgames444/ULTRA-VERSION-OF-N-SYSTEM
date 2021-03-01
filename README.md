@@ -1,10 +1,10 @@
-# **Ultra A-system Bot By ニロ#3892**
+# **Ultra A-system Bot By AhmedGames**
 
 **ニロ Meen AhmedGames 🙃**
 
 ## 💨 Run the projects
 
-Replit: [![Run on Repl.it](https://repl.it/@NIR0/N-System-v3#index.js)]
+Replit: [![Run on Repl.it](https://repl.it/@Ahadghasdfg/N-System-v3#index.js)]
 
 ### ⚡ Installation
 
