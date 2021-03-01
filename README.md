@@ -1,6 +1,6 @@
-# **Ultra N-system Bot By ニロ#3892**
+# **Ultra A-system Bot By ニロ#3892**
 
-**ニロ Meen Niro 🙃**
+**ニロ Meen AhmedGames 🙃**
 
 ## 💨 Run the projects
 
@@ -20,10 +20,8 @@ go to `Bot_Config` folder and edit config.json file
 
 ## ✨ Mad By
 
-```@ニロ#3892```
+```AhmedGames```
 
 ## 🌀 Support
 
-[![Naar Server](https://media.discordapp.net/attachments/756329106953601225/795743580492267560/Screenshot_1.png)](https://discord.gg/S2edTcfWWz)
-
-[![NCR Codes](https://media.discordapp.net/attachments/756329106953601225/795742444854837280/098941bdba1a94f9f7d9b22e1b601329.png)](https://discord.gg/7C2MnFTwcC)
+[ BlackList Roleplay ] ( https://discord.gg/BquYCcrUCy )
